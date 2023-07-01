@@ -1,5 +1,6 @@
 #!/bin/bash
 # HogeHoge
+# NOBITA.
 
 exec 2> /tmp/setup.log
 
