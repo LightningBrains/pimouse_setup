@@ -1,4 +1,5 @@
 #!/bin/bash
+# NOBITA.
 
 exec 2> /tmp/setup.log
 
