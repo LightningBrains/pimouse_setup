@@ -1,4 +1,5 @@
 #!/bin/bash
+# HogeHoge
 
 exec 2> /tmp/setup.log
 
