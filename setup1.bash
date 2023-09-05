@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd /home/ubuntu/mouse/RaspberryPiMouse/src/drivers/
+cd /home/ubuntu/work/RaspberryPiMouse/src/drivers
 /sbin/insmod rtmouse.ko
 
